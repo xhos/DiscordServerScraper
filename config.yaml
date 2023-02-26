@@ -1,0 +1,9 @@
+# Scrapes all text channels from a given server, leave empty if you want to specify channels
+server_ids:
+  - 1234567890
+  - 1234567890
+
+# Text channels that will be scraped
+channel_ids: 
+  - 1234567890
+  - 1234567890
