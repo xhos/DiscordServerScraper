@@ -1,2 +1,2 @@
-# discord-server-scraper
+# DiscordServerScraper
  
